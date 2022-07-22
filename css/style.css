@@ -243,16 +243,16 @@ a {
     font-size: 47px;
   }
   .content__img {
-    height: 194px;
-    width: 194px;
+    height: 180px;
+    width: 180px;
   }
   .img {
     width: auto;
     margin-bottom: 200px;
   }
   .image-about {
-    height: 194px;
-    width: 194px;
+    height: 180px;
+    width: 180px;
   }
   .img-about {
     display:flex;
@@ -266,9 +266,9 @@ a {
   .services-text2,
   .services-text3 {
     border: 0.5px solid black;
-    height: 320.95px;
+    height: 300.95px;
     color: #000000;
-    width: 194.51px;
+    width: 180.51px;
   }
 
   .services-text h2,
