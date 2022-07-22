@@ -249,14 +249,13 @@ a {
     margin-bottom: 200px;
   }
   .image-about {
-    height: 200px;
-    width: 200px;
-    margin: 0 100px;
+    height: 194px;
+    width: 194px;
   }
   .img-about {
     display:flex;
     flex-wrap:wrap;
-    margin: 50px 20px 133px 20px;
+    margin: 50px 0 133px 0;
     width:auto;
   }
 
@@ -300,7 +299,7 @@ a {
   }
   .block {
     margin-bottom: 88px;
-    margin:30px auto
+    margin:30px auto;
     width: auto;
   }
   .contact p {
